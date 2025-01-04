@@ -1,1 +1,0 @@
-Projeto MyFirstGame do Primeiro Período do Curso, no qual se utilizou o AppGameKit como ferramenta para fazer o game, além das habilidades aprendidas e desenvolvidas nas matérias de Contrução de Algoritmos e Laboratório de Programação.
